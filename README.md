@@ -8,3 +8,7 @@ While the notebook is functional and produces reasonable results, there remains 
 One example is that there are models that are designed specifically for taking a mask and adding the edit, which create better images, but I wanted to create the whole process of mask creation and processing myself.
 
 This project is a step towards mastering GenAI techniques, demonstrating my practical knowledge of Stable Diffusion in the context of semantic image editing.
+
+![image](https://github.com/user-attachments/assets/6a0a7318-762b-44a7-b1e3-26e7be9d60ec)
+
+![image](https://github.com/user-attachments/assets/bfa9b4d8-a053-46b5-8784-8e64f5d02f09)
